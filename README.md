@@ -12,7 +12,7 @@
 
 |     **Bot Types**      |                 **Description**                 | **Features**                                                  |  **Info**  |
 | ---------------------  | ----------------------------------------------- | ------------------------------------------------------------- | ---------- |
-|  Pumpfun Sniper Bot    |  Sniping Bot using websocket                    | Use WebSocket Monitor, Able to run with Free RPC              |  Node-CLI  |
+|  Pumpfun Sniper Bot    |  Track new pools from pump.fun and snipes token from it| Use WebSocket Monitor, Able to run with Free RPC              |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Raydium Sniper Bot    | Sniping Bot with GRPC                           | Use YellowStone GRPC, Jito Confirm, Raydium SDK               |  Node-CLI  |
 |                        |                                                 |                                                               |            |
