@@ -10,33 +10,32 @@
 --------------------
 
 
-|     **Bot Types**     |                 **Description**                 | **Features**                                                     |  **Info**  |
-| --------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ---------- |
-|  Pumpfun Sniping Bot  | Sniping Bot using websocket                     | Use WebSocket Monitor, Able to run with Free RPC                 |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Raydium Sniping Bot  | Sniping Bot with GRPC                           | Use YellowStone GRPC, Jito Confirm, Raydium SDK                  |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Wallet Tracker Bot   | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Add Tracking 10000 Lists           |  Telegram  |
-|                       |                                                 |                                                                  |            |
-|  Jupito Volume Bot    | Jupito Volume Bot on WebSite                    | Use Jupito Route                                                 | WebService |
-|                       |                                                 |                                                                  |            |
-|  Pumpfun Volume Bot   | Pumpfun Volume Bot                              | Use Pumpfun SDK                                                  |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Raydium Volume Bot   | Volume Bot which proceeds large amount of txs   | Update Boosting Strategy                                         |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Meteora Volume Bot   | Raydium Volume Bot using Meteora SDK            | Use Meteora SDK                                                  |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Market Maker Bot     | Maker Bot which increase token holder           | Use Jupito Route                                                 |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Pumpfun Bundler      | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                            |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Raydium Bundler      | Bundler Bot using Jito + LookUpTable            | Bundling + 21 Wallets, ( Updating ) 27 Wallets                   |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Meteora Bundler      | Meteora Bundler                                 | Simple Jito Bundling                                             |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  Jupito Arbitrage Bot | Arbitrage Bot using Jupito API                  | Circle Routing, Bundle Sol -> USDC, USDC -> SOL                  |  Node-CLI  |
-|                       |                                                 |                                                                  |            |
-|  CopyTrading Bot      | CopyTrading Bot which running on Jupito         | Use Jupito Route                                                 |  Node-CLI  |
+|     **Bot Types**      |                 **Description**                 | **Features**                                                  |  **Info**  |
+| ---------------------  | ----------------------------------------------- | ------------------------------------------------------------- | ---------- |
+|  Pumpfun Sniper Bot    |  Sniping Bot using websocket                    | Use WebSocket Monitor, Able to run with Free RPC              |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Raydium Sniper Bot    | Sniping Bot with GRPC                           | Use YellowStone GRPC, Jito Confirm, Raydium SDK               |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Jupito Volume Bot     | Jupito Volume Bot on WebSite                    | Use Jupito Route                                              | WebService |
+|                        |                                                 |                                                               |            |
+|  Pumpfun Volume Bot    | Pumpfun Volume Bot                              | Use Pumpfun SDK                                               |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Raydium Volume Bot    | Volume Bot which proceeds large amount of txs   | Update Boosting Strategy                                      |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Meteora Volume Bot    | Raydium Volume Bot using Meteora SDK            | Use Meteora SDK                                               |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Market Maker Bot      | Maker Bot which increase token holder           | Use Jupito Route                                              |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Pumpfun Bundler       | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                         |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Raydium Bundler       | Bundler Bot using Jito + LookUpTable            | Bundling + 21 Wallets, ( Updating ) 27 Wallets                |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Meteora Bundler       | Meteora Bundler                                 | Simple Jito Bundling                                          |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  CopyTrading Bot       | CopyTrading Bot which running on Jupito         | Use Jupito Route                                              |  Node-CLI  |
+|                        |                                                 |                                                               |            |
+|  Wallet Tracker Bot    | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Add Tracking 10000 Lists        |  Telegram  |
+|                        |                                                 |                                                               |            |
 
 ### Why Choose Our Bots?
    Speed & Efficiency: With technologies like WebSocket, GRPC, and customized SDKs, our bots execute operations at lightning speed.
