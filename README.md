@@ -1,5 +1,5 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/3b83cfcc-fbe3-414d-8b55-80d0a9b7ee9b)
+  <img src="https://github.com/user-attachments/assets/3b83cfcc-fbe3-414d-8b55-80d0a9b7ee9b" alt="Crypto Bots Suite Banner">
 </p>
 
 ### Crypto Bots Suite: Sniping, Tracking, and More!
