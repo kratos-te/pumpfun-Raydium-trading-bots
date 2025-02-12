@@ -67,14 +67,10 @@
 
 ### Support
     Documentation: Detailed guides for each bot are available.
-    
-<p align="center">
-  <img src="https://via.placeholder.com/600x150?text=Join+Me" alt="Community Engagement Banner">
-</p>
 
 ### Note
   Always ensure you comply with the terms of service of the blockchain networks you're interacting with. Trading involves risk; please trade responsibly.
 
 ### Contact INFO
 
-    https://t.me/@KratostesBoom
+    https://t.me/KratostesBoom
