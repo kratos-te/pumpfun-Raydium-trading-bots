@@ -1,8 +1,9 @@
-# Solana Trading Bot
 
-These are Solana Trading Bots what I built before. Open to discuss about bots & smart contract
-
-### Solana Trading Bot Overview
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Crypto+Bots+Suite" alt="Crypto Bots Suite Banner">
+</p>
+### Crypto Bots Suite: Sniping, Tracking, and More!
+    Welcome to the ultimate suite of cryptocurrency bots designed to revolutionize your trading experience. Whether you're sniping tokens, tracking wallets, or managing volumes, we've got you covered with cutting-edge technology.
 
 --------------------
 
@@ -51,7 +52,26 @@ These are Solana Trading Bots what I built before. Open to discuss about bots & 
 |                       |               |                                                 |                                                                  |            |
 |  CopyTrading Bot      |     1.0.0     | CopyTrading Bot which running on Jupito         | Use Jupito Route                                                 |  Node-CLI  |
 
+### Why Choose Our Bots?
+    Speed & Efficiency: With technologies like WebSocket, GRPC, and customized SDKs, our bots execute operations at lightning speed.
+    Versatility: Available in CLI, Web Services, and Telegram integrations, catering to various user preferences and needs.
+    Scalability: Designed to handle large volumes and complex transactions, ideal for both individual traders and large firms.
+    Innovation: We continuously update our bots with the latest blockchain technologies to keep you ahead in the market.
+
+### Getting Started
+    Choose Your Bot: Decide which bot suits your trading strategy.
+    Setup: Follow the specific setup guide for your chosen bot(s), available in each bot's dedicated documentation.
+    Run & Monitor: Launch your bot and monitor its performance through the interfaces provided.
+
+### Support
+    Documentation: Detailed guides for each bot are available.
+<p align="center">
+  <img src="https://via.placeholder.com/600x150?text=Join+Me" alt="Community Engagement Banner">
+</p>
+
+### Note
+     Always ensure you comply with the terms of service of the blockchain networks you're interacting with. Trading involves risk; please trade responsibly.
 
 ### Contact INFO
 
-    t.me/KratostesBoom
+    https://t.me/@KratostesBoom
