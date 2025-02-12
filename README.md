@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3b83cfcc-fbe3-414d-8b55-80d0a9b7ee9b" alt="Crypto Bots Suite Banner">
 </p>
-
-### Crypto Bots Suite: Sniping, Tracking, and More!
+<h1 align="center">
+  Crypto Bots Suite: Sniping, Tracking, and More!
+</h1>
+  
   Welcome to the ultimate suite of cryptocurrency bots designed to revolutionize your trading experience. Whether you're sniping tokens, tracking wallets, or managing volumes, we've got you covered with cutting-edge technology.
 
 --------------------
