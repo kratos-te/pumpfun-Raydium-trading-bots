@@ -12,25 +12,25 @@
 
 |     **Bot Types**      |                 **Description**                 | **Features**                                                  |  **Info**  |
 | ---------------------  | ----------------------------------------------- | ------------------------------------------------------------- | ---------- |
-|  Pumpfun Sniper Bot    |  Track new pools from pump.fun and snipes token from it | Use WebSocket Monitor, Able to run with Free RPC              |  Node-CLI  |
+|  [Pumpfun Sniper Bot](https://github.com/kratos-te/pumpfun-sniper)    |  Track new pools from pump.fun and snipes token from it | Use WebSocket Monitor, Able to run with Free RPC              |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Raydium Sniper Bot    | Track new pools and buy from it using several transaction services | Use YellowStone GRPC, Jito Confirm, Raydium SDK               |  Node-CLI  |
+|  [Raydium Sniper Bot](https://github.com/kratos-te/Raydium-sniper)    | Track new pools and buy from it using several transaction services | Use YellowStone GRPC, Jito Confirm, Raydium SDK               |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Pumpfun Volume Bot    | Pumpfun Volume Bot                              | Use Pumpfun SDK                                               |  Node-CLI  |
+|  [Pumpfun Volume Bot](https://github.com/kratos-te/pumpfun-bundler)    | Pumpfun Volume Bot                              | Use Pumpfun SDK                                               |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Raydium Volume Bot    | Control market caps with various strategy so the volume stays or increase to specific MC or liquidity   | Update Boosting Strategy  |  Node-CLI  |
+|  [Raydium Volume Bot](https://github.com/kratos-te/Raydium-volume-bot-ultimate)    | Control market caps with various strategy so the volume stays or increase to specific MC or liquidity   | Update Boosting Strategy  |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Meteora Volume Bot    | This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Meteora platform | Use Meteora SDK  |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Market Making Bot      | Create a market and analyzes the status of the pool relative to that market, also analyzes the pool status | Use Jupito Route   |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Pumpfun Bundler       | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                         |  Node-CLI  |
+|  [Pumpfun Bundler](https://github.com/kratos-te/pumpfun-bundler)       | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                         |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Raydium Bundler       | Bundle create and buy on raydium                | Bundling 27 Wallets                                           |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Meteora Bundler       | Meteora Bundler                                 | Simple Jito Bundling                                          |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  CopyTrading Bot       |  monitoring whales and trader's wallet          | Use Jupito Route                                              |  Node-CLI  |
+|  [CopyTrading Bot](https://github.com/kratos-te/copy-trading-bot)       |  monitoring whales and trader's wallet          | Use Jupito Route                                              |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  Wallet Tracker Bot    | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Add Tracking 10000 Lists        |  Telegram  |
 
