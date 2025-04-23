@@ -20,19 +20,19 @@
 |                        |                                                 |                                                               |            |
 |  [Raydium Volume Bot](https://github.com/kratos-te/Raydium-volume-bot-ultimate)    | Control market caps with various strategy so the volume stays or increase to specific MC or liquidity   | Update Boosting Strategy  |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Meteora Volume Bot    | This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Meteora platform | Use Meteora SDK  |  Node-CLI  |
+|  Meteora Volume Bot (Private)   | This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Meteora platform | Use Meteora SDK  |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Market Making Bot      | Create a market and analyzes the status of the pool relative to that market, also analyzes the pool status | Use Jupito Route   |  Node-CLI  |
+|  Market Making Bot (Private)     | Create a market and analyzes the status of the pool relative to that market, also analyzes the pool status | Use Jupito Route   |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  [Pumpfun Bundler](https://github.com/kratos-te/pumpfun-bundler)       | Pumpfun Bundler using websocket                 | Bundling + 24 Wallets                                         |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Raydium Bundler       | Bundle create and buy on raydium                | Bundling 27 Wallets                                           |  Node-CLI  |
+|  Raydium Bundler (Private)      | Bundle create and buy on raydium                | Bundling 27 Wallets                                           |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Meteora Bundler       | Meteora Bundler                                 | Simple Jito Bundling                                          |  Node-CLI  |
+|  Meteora Bundler (Private)     | Meteora Bundler                                 | Simple Jito Bundling                                          |  Node-CLI  |
 |                        |                                                 |                                                               |            |
 |  [CopyTrading Bot](https://github.com/kratos-te/copy-trading-bot)       |  monitoring whales and trader's wallet          | Use Jupito Route                                              |  Node-CLI  |
 |                        |                                                 |                                                               |            |
-|  Wallet Tracker Bot    | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Add Tracking 10000 Lists        |  Telegram  |
+|  Wallet Tracker Bot (Private)   | Wallet Activity & Token Price Tracker           | Wallet Activity, Token Price, Add Tracking 10000 Lists        |  Telegram  |
 
 ### Why Choose Our Bots?
    Speed & Efficiency: With technologies like WebSocket, GRPC, and customized SDKs, our bots execute operations at lightning speed.
